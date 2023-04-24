@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc9bae3b-b5af-4b28-9e92-3dd697222806" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2ODX0kXghkhg15gWVqkbhIfv17E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.18389261" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject" />
+      <recent name="E:\JavaProject\cloud-provider-payment8002\src\main\java" />
+      <recent name="E:\JavaProject\cloud-provider-payment8002\src\main\resources" />
+      <recent name="E:\JavaProject\cloud-provider-payment8002" />
+      <recent name="E:\JavaProject\cloud-eureka-server7002" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\cloud-provider-payment8002\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.springcloud.config" />
+      <recent name="com.atguigu.cloud.config" />
+      <recent name="com.atguigu.springcloud.controller" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StreamMQMain8803">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3366" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.GateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderConsulMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-hygtrix-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8802 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+      <item itemvalue="Spring Boot.OrderFeignMain80" />
+      <item itemvalue="Spring Boot.OrderZKMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8006" />
+      <item itemvalue="Spring Boot.OrderConsulMain80" />
+      <item itemvalue="Spring Boot.OrderHystrixMain80" />
+      <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.ConfigClientMain3366" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.ConfigClientMain3355" />
+      <item itemvalue="Spring Boot.StreamMQMain8801" />
+      <item itemvalue="Spring Boot.StreamMQMain8802" />
+      <item itemvalue="Spring Boot.StreamMQMain8802 (1)" />
+      <item itemvalue="Spring Boot.StreamMQMain8803" />
+      <item itemvalue="Spring Boot.GateWayMain9527" />
+      <item itemvalue="Spring Boot.ConfigCenterMain3344" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StreamMQMain8803" />
+        <item itemvalue="Spring Boot.StreamMQMain8802" />
+        <item itemvalue="Spring Boot.StreamMQMain8801" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.ConfigClientMain3355" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc9bae3b-b5af-4b28-9e92-3dd697222806" name="Default Changelist" comment="" />
+      <created>1681095906340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681095906340</updated>
+      <workItem from="1681095907643" duration="1262000" />
+      <workItem from="1681097488487" duration="2410000" />
+      <workItem from="1681183195555" duration="5719000" />
+      <workItem from="1681203721285" duration="3507000" />
+      <workItem from="1681207360981" duration="451000" />
+      <workItem from="1681261910215" duration="12252000" />
+      <workItem from="1681349582947" duration="1923000" />
+      <workItem from="1681351573706" duration="11991000" />
+      <workItem from="1681454687475" duration="7263000" />
+      <workItem from="1681697032342" duration="9204000" />
+      <workItem from="1681723170133" duration="2541000" />
+      <workItem from="1681780288992" duration="14019000" />
+      <workItem from="1681866615867" duration="13946000" />
+      <workItem from="1681953475364" duration="9894000" />
+      <workItem from="1682041467144" duration="9776000" />
+      <workItem from="1682212744703" duration="13293000" />
+      <workItem from="1682298652328" duration="10289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
