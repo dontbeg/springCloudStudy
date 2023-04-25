@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9bae3b-b5af-4b28-9e92-3dd697222806" name="Default Changelist" comment="" />
+    <list default="true" id="cc9bae3b-b5af-4b28-9e92-3dd697222806" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +32,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -42,6 +56,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2ODX0kXghkhg15gWVqkbhIfv17E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,12 +72,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/insiis7" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.18389261" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -100,13 +115,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.StreamMQMain8803">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -302,21 +319,21 @@
       <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
       <item itemvalue="Spring Boot.PaymentMain8001" />
       <item itemvalue="Spring Boot.ConfigClientMain3366" />
+      <item itemvalue="Spring Boot.StreamMQMain8802 (1)" />
+      <item itemvalue="Spring Boot.GateWayMain9527" />
+      <item itemvalue="Spring Boot.ConfigCenterMain3344" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
       <item itemvalue="Spring Boot.ConfigClientMain3355" />
       <item itemvalue="Spring Boot.StreamMQMain8801" />
       <item itemvalue="Spring Boot.StreamMQMain8802" />
-      <item itemvalue="Spring Boot.StreamMQMain8802 (1)" />
       <item itemvalue="Spring Boot.StreamMQMain8803" />
-      <item itemvalue="Spring Boot.GateWayMain9527" />
-      <item itemvalue="Spring Boot.ConfigCenterMain3344" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.StreamMQMain8803" />
         <item itemvalue="Spring Boot.StreamMQMain8802" />
         <item itemvalue="Spring Boot.StreamMQMain8801" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.ConfigClientMain3355" />
       </list>
     </recent_temporary>
@@ -345,12 +362,25 @@
       <workItem from="1681953475364" duration="9894000" />
       <workItem from="1682041467144" duration="9776000" />
       <workItem from="1682212744703" duration="13293000" />
-      <workItem from="1682298652328" duration="10289000" />
+      <workItem from="1682298652328" duration="13033000" />
+      <workItem from="1682385256405" duration="2115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
